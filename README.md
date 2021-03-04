@@ -1,2 +1,2 @@
 # TestRepo
-Test repo crated as part of GIT tutorial
+Test repo created as part of GIT tutorial
